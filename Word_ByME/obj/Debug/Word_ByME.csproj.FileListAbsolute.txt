@@ -1,0 +1,64 @@
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\Word_ByME\Word_ByME\bin\Debug\Word_ByME.exe.config
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\Word_ByME\Word_ByME\bin\Debug\Word_ByME.exe
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\Word_ByME\Word_ByME\bin\Debug\Word_ByME.pdb
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\Word_ByME\Word_ByME\bin\Debug\FontAwesome.WPF.dll
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\Word_ByME\Word_ByME\bin\Debug\FontAwesome.WPF.xml
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\Word_ByME\Word_ByME\obj\Debug\MainWindow.g.cs
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\Word_ByME\Word_ByME\obj\Debug\App.g.cs
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\Word_ByME\Word_ByME\obj\Debug\Word_ByME_MarkupCompile.cache
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\Word_ByME\Word_ByME\obj\Debug\Word_ByME_MarkupCompile.lref
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\Word_ByME\Word_ByME\obj\Debug\MainWindow.baml
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\Word_ByME\Word_ByME\obj\Debug\Word_ByME.g.resources
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\Word_ByME\Word_ByME\obj\Debug\Word_ByME.Properties.Resources.resources
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\Word_ByME\Word_ByME\obj\Debug\Word_ByME.csproj.GenerateResource.Cache
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\Word_ByME\Word_ByME\obj\Debug\Word_ByME.exe
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\Word_ByME\Word_ByME\obj\Debug\Word_ByME.pdb
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\Word_ByME\Word_ByME\obj\Debug\Word_ByME.csprojResolveAssemblyReference.cache
+C:\Users\STEFAN\Desktop\Word_ByME\Word_ByME\bin\Debug\Word_ByME.exe.config
+C:\Users\STEFAN\Desktop\Word_ByME\Word_ByME\obj\Debug\Word_ByME.exe
+C:\Users\STEFAN\Desktop\Word_ByME\Word_ByME\obj\Debug\Word_ByME.pdb
+C:\Users\STEFAN\Desktop\Word_ByME\Word_ByME\bin\Debug\Word_ByME.exe
+C:\Users\STEFAN\Desktop\Word_ByME\Word_ByME\bin\Debug\Word_ByME.pdb
+C:\Users\STEFAN\Desktop\Word_ByME\Word_ByME\bin\Debug\FontAwesome.WPF.dll
+C:\Users\STEFAN\Desktop\Word_ByME\Word_ByME\bin\Debug\FontAwesome.WPF.xml
+C:\Users\STEFAN\Desktop\Word_ByME\Word_ByME\obj\Debug\Word_ByME.csprojResolveAssemblyReference.cache
+C:\Users\STEFAN\Desktop\Word_ByME\Word_ByME\obj\Debug\MainWindow.g.cs
+C:\Users\STEFAN\Desktop\Word_ByME\Word_ByME\obj\Debug\App.g.cs
+C:\Users\STEFAN\Desktop\Word_ByME\Word_ByME\obj\Debug\Word_ByME_MarkupCompile.cache
+C:\Users\STEFAN\Desktop\Word_ByME\Word_ByME\obj\Debug\Word_ByME_MarkupCompile.lref
+C:\Users\STEFAN\Desktop\Word_ByME\Word_ByME\obj\Debug\MainWindow.baml
+C:\Users\STEFAN\Desktop\Word_ByME\Word_ByME\obj\Debug\Word_ByME.g.resources
+C:\Users\STEFAN\Desktop\Word_ByME\Word_ByME\obj\Debug\Word_ByME.Properties.Resources.resources
+C:\Users\STEFAN\Desktop\Word_ByME\Word_ByME\obj\Debug\Word_ByME.csproj.GenerateResource.Cache
+C:\Users\STEFAN\Desktop\Word_ByME25.11.2017\Word_ByME\bin\Debug\Word_ByME.exe.config
+C:\Users\STEFAN\Desktop\Word_ByME25.11.2017\Word_ByME\obj\Debug\Word_ByME.exe
+C:\Users\STEFAN\Desktop\Word_ByME25.11.2017\Word_ByME\obj\Debug\Word_ByME.pdb
+C:\Users\STEFAN\Desktop\Word_ByME25.11.2017\Word_ByME\bin\Debug\Word_ByME.exe
+C:\Users\STEFAN\Desktop\Word_ByME25.11.2017\Word_ByME\bin\Debug\Word_ByME.pdb
+C:\Users\STEFAN\Desktop\Word_ByME25.11.2017\Word_ByME\bin\Debug\FontAwesome.WPF.dll
+C:\Users\STEFAN\Desktop\Word_ByME25.11.2017\Word_ByME\bin\Debug\FontAwesome.WPF.xml
+C:\Users\STEFAN\Desktop\Word_ByME25.11.2017\Word_ByME\obj\Debug\Word_ByME.csprojResolveAssemblyReference.cache
+C:\Users\STEFAN\Desktop\Word_ByME25.11.2017\Word_ByME\obj\Debug\MainWindow.g.cs
+C:\Users\STEFAN\Desktop\Word_ByME25.11.2017\Word_ByME\obj\Debug\App.g.cs
+C:\Users\STEFAN\Desktop\Word_ByME25.11.2017\Word_ByME\obj\Debug\Word_ByME_MarkupCompile.cache
+C:\Users\STEFAN\Desktop\Word_ByME25.11.2017\Word_ByME\obj\Debug\Word_ByME_MarkupCompile.lref
+C:\Users\STEFAN\Desktop\Word_ByME25.11.2017\Word_ByME\obj\Debug\MainWindow.baml
+C:\Users\STEFAN\Desktop\Word_ByME25.11.2017\Word_ByME\obj\Debug\Word_ByME.g.resources
+C:\Users\STEFAN\Desktop\Word_ByME25.11.2017\Word_ByME\obj\Debug\Word_ByME.Properties.Resources.resources
+C:\Users\STEFAN\Desktop\Word_ByME25.11.2017\Word_ByME\obj\Debug\Word_ByME.csproj.GenerateResource.Cache
+C:\Users\STEFAN\Desktop\Word_ByME FINAL\Word_ByME\bin\Debug\Word_ByME.exe.config
+C:\Users\STEFAN\Desktop\Word_ByME FINAL\Word_ByME\obj\Debug\Word_ByME.exe
+C:\Users\STEFAN\Desktop\Word_ByME FINAL\Word_ByME\obj\Debug\Word_ByME.pdb
+C:\Users\STEFAN\Desktop\Word_ByME FINAL\Word_ByME\bin\Debug\Word_ByME.exe
+C:\Users\STEFAN\Desktop\Word_ByME FINAL\Word_ByME\bin\Debug\Word_ByME.pdb
+C:\Users\STEFAN\Desktop\Word_ByME FINAL\Word_ByME\bin\Debug\FontAwesome.WPF.dll
+C:\Users\STEFAN\Desktop\Word_ByME FINAL\Word_ByME\bin\Debug\FontAwesome.WPF.xml
+C:\Users\STEFAN\Desktop\Word_ByME FINAL\Word_ByME\obj\Debug\Word_ByME.csprojResolveAssemblyReference.cache
+C:\Users\STEFAN\Desktop\Word_ByME FINAL\Word_ByME\obj\Debug\MainWindow.g.cs
+C:\Users\STEFAN\Desktop\Word_ByME FINAL\Word_ByME\obj\Debug\App.g.cs
+C:\Users\STEFAN\Desktop\Word_ByME FINAL\Word_ByME\obj\Debug\Word_ByME_MarkupCompile.cache
+C:\Users\STEFAN\Desktop\Word_ByME FINAL\Word_ByME\obj\Debug\Word_ByME_MarkupCompile.lref
+C:\Users\STEFAN\Desktop\Word_ByME FINAL\Word_ByME\obj\Debug\MainWindow.baml
+C:\Users\STEFAN\Desktop\Word_ByME FINAL\Word_ByME\obj\Debug\Word_ByME.g.resources
+C:\Users\STEFAN\Desktop\Word_ByME FINAL\Word_ByME\obj\Debug\Word_ByME.Properties.Resources.resources
+C:\Users\STEFAN\Desktop\Word_ByME FINAL\Word_ByME\obj\Debug\Word_ByME.csproj.GenerateResource.Cache
